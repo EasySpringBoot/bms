@@ -1,0 +1,2 @@
+# bms
+使用SpringBoot集成Groovy混合Java开发一个极简的RestAPI。 数据库使用mysql，ORM层使用mybatis，模板引擎使用freemarker，构建工具使用Gradle。
